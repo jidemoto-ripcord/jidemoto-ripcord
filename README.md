@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jidemoto-ripcord
-- 👀 I’m interested in managing all your paper with [Ripcord](https://www.ripcord.com/)!
-- 🌱 I’m currently learning Cybersecurity at Georgia Tech
+- 👀 I used to work at [Ripcord](https://www.ripcord.com/)! [They're hiring!](https://www.ripcord.com/careers/)
 
-[Come work with me!](https://www.ripcord.com/careers/)
+I'm not using this account anymore -- you can find me at [my usual account](https://github.com/jidemoto).
